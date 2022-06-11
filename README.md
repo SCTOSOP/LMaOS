@@ -1,1 +1,1 @@
-# LMaOS 一个没啥用的基于Linux平台的程序
+# LMaOS —— 一个没啥用的基于Linux平台的程序
